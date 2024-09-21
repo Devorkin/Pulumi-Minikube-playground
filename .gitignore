@@ -1,0 +1,6 @@
+*.pyc
+ca.crt
+ca.key
+Pulumi.*
+venv/
+helpers*/
